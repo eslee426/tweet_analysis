@@ -1,10 +1,7 @@
-#************************************************************************
-# Name: Eisha Lee
-# date: November 20th, 2013
-# files: TweetSentiment.py and TweetSentimentMain.py
-#
-# readMe.txt
-#************************************************************************
+************************************************************************
+date: November 20th, 2013
+files: TweetSentiment.py and TweetSentimentMain.py
+************************************************************************
 
 TweetSentimentMain.py
 
