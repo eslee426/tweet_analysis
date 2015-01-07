@@ -1,5 +1,4 @@
 #************************************************************************
-# Name: Eisha Lee
 # date: November 20th, 2013
 # file: TweetSentiment.py
 #
